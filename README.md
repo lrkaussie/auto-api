@@ -1,7 +1,7 @@
 # cog-api-auto
 
 
-1) Clone this repo using command<br />  
+1) Clone this repo<br />  
 
 2) Install Ruby<br /> 
 
