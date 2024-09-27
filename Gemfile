@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'activesupport','~> 5.0'
+gem 'faker'
+gem 'date'

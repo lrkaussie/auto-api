@@ -1,0 +1,129 @@
+Cardinfo:
+  au:
+    issue_data_1:
+      amount: 5.05
+      code: 2790030169367521715
+      currency: AUD
+      expires: 9999-12-31
+      pin: 1187
+      status: issued
+    issue_data_2:
+      amount: 0
+      code: 2790030169169528009
+      currency: AUD
+      expires: 9999-12-31
+      pin: 8724
+      status: cancelled
+    issue_data_3:
+      amount: 100.00
+      code: 2790030165271446340
+      currency: AUD
+      expires: 9999-12-31
+      pin: 0449
+      status: issued
+    issue_data_4:
+      code: 2790030161268048827
+      pin: 2011
+      status: issued
+      expires: 9999-12-31
+      currency: AUD
+      amount: 0.10
+    issue_data_5:
+      code: 2790030164967038861
+      pin: 9400
+      status: created
+      expires: 9999-12-31
+      currency: AUD
+      amount: 0
+    issue_data_6:
+      amount: 0
+      code: 2790030161906572600
+      currency: AUD
+      expires: 9999-12-31
+      pin: 9662
+      status: redeemed
+    invalid_data_1:
+      code: 2790030180005065517
+      errorMessage: Gift Card scheme '00jwpuh09' ('us') does not match store '3995' ('AU').
+      errorNumber: 56142
+      errorSource: VerifyVouchers
+      exceptionType: ArgumentException
+      pin: 2199
+    invalid_data_2:
+        code: 22790030160007797999
+        errorMessage: Gift Cards scheme is not defined for prefix '227900301'.
+        errorNumber: 56142
+        errorSource: VerifyVouchers
+        exceptionType: ArgumentException
+        pin: 0861
+    invalid_data_3:
+      code: 2790030160014765059
+      errorMessage: Invalid voucher code or pin.
+      errorNumber: 56142
+      errorSource: VerifyVouchers
+      exceptionType: ArgumentException
+      pin: 6662
+    invalid_data_4:
+      code:
+      errorMessage: Invalid voucher code or pin.
+      errorNumber: 56142
+      errorSource: VerifyVouchers
+      exceptionType: ArgumentException
+      pin: 3365
+    invalid_data_5:
+      code: 2790030161906572600
+      errorMessage: Invalid voucher code or pin.
+      errorNumber: 56142
+      errorSource: VerifyVouchers
+      exceptionType: ArgumentException
+      pin: Ac123
+    invalid_data_6:
+      code: 2790030161906572600
+      errorMessage: Invalid voucher code or pin.
+      errorNumber: 56142
+      errorSource: VerifyVouchers
+      exceptionType: ArgumentException
+      pin:
+  nz:
+    issue_data_1:
+      code: 2790030171113360259
+      pin: 4822
+      status: created
+      expires: 9999-12-31
+      currency: NZD
+      amount: 0
+    issue_data_2:
+      code: 2790030171466022537
+      pin: 6114
+      status: issued
+      expires: 9999-12-31
+      currency: NZD
+      amount: 2.02
+    issue_data_3:
+      code: 2790030170063381942
+      pin: 5653
+      status: redeemed
+      expires: 9999-12-31
+      currency: NZD
+      amount: 0
+    issue_data_4:
+      code: 2790030179073365452
+      pin: 6517
+      status: issued
+      expires: 9999-12-31
+      currency: NZD
+      amount: 0.05
+    issue_data_5:
+      code: 2790030176865259591
+      pin: 2841
+      status: redeemed
+      expires: 9999-12-31
+      currency: NZD
+      amount: 0.00
+    issue_data_6:
+      code: 2790030177804265759
+      pin: 1213
+      status: cancelled
+      expires: 9999-12-31
+      currency: NZD
+      amount: 0.00
